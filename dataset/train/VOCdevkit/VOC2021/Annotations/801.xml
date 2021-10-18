@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>801.jpg</filename>
+	<path>E:\Programming\AI\DataSets\DrinkingWasteDataset\Images_of_Waste\imgs\801.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ALU_CAN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>210</ymin>
+			<xmax>295</xmax>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>941.jpg</filename>
+	<path>E:\Programming\AI\DataSets\DrinkingWasteDataset\Images_of_Waste\imgs\941.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BOTTLE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>264</ymin>
+			<xmax>443</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>AluCan151.jpg</filename>
+	<path>E:\Programming\AI\DrinkingWasteDataset\dataset\train\VOCdevkit\VOC2021\JPEGImages\AluCan151.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ALU_CAN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>453</ymin>
+			<xmax>276</xmax>
+			<ymax>549</ymax>
+		</bndbox>
+	</object>
+</annotation>

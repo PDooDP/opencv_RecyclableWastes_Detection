@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>PET1,039.jpg</filename>
+	<path>E:\Programming\AI\DrinkingWasteDataset\dataset\train\VOCdevkit\VOC2021\JPEGImages\PET1,039.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BOTTLE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>249</ymin>
+			<xmax>351</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>
