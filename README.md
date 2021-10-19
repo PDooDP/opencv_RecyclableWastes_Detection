@@ -19,3 +19,5 @@ Original Image 2: <br/>
 
 test Image (with 0.60 threshold) : <br/>
 <img src="https://github.com/PDooDP/opencv_RecyclableWastes_Detection/blob/master/test_data/my_06_predictions_t0-6.JPG" width="600" height="400">
+
+I stopped training after 2000 iterations, so the results don't look so good.
