@@ -15,9 +15,9 @@ test Image: <br/>
 <img src="https://github.com/PDooDP/opencv_RecyclableWastes_Detection/blob/master/test_data/my_04_predictions.JPG" width="600" height="400">
 
 Original Image 2: <br/>
-<img src="https://github.com/PDooDP/opencv_RecyclableWastes_Detection/blob/master/test_data/my_06.JPG" width="600" height="400">
+<img src="https://github.com/PDooDP/opencv_RecyclableWastes_Detection/blob/master/test_data/my_02.JPG" width="600" height="400">
 
-test Image (with 0.60 threshold) : <br/>
-<img src="https://github.com/PDooDP/opencv_RecyclableWastes_Detection/blob/master/test_data/my_06_predictions_t0-6.JPG" width="600" height="400">
+test Image : <br/>
+<img src="https://github.com/PDooDP/opencv_RecyclableWastes_Detection/blob/master/test_data/my_02_predictions.JPG" width="600" height="400">
 
 I stopped training after 2000 iterations, so the results don't look so good.
