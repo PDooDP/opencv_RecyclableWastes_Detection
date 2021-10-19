@@ -6,7 +6,11 @@
 
 3. You can train your own model if you'd like to give this project a try, then put the weight files into the backup folder.
 
-4. Dataset source: <a href="https://www.kaggle.com/arkadiyhacks/drinking-waste-classification">Drinking Waste Classification - Kaggle</a>and I re-labelled 1239 images myself using labelImg.
+4. Dataset source: <a href="https://www.kaggle.com/arkadiyhacks/drinking-waste-classification">Drinking Waste Classification - Kaggle</a> and I re-labelled 1239 images myself using labelImg.
+
+5. I stopped training this model after 2000 iterations, so the outputs don't look so good.
+
+<h1>Outputs</h1>
 
 Original Image 1: <br/>
 <img src="https://github.com/PDooDP/opencv_RecyclableWastes_Detection/blob/master/test_data/my_04.JPG" width="600" height="400">
@@ -29,4 +33,3 @@ test video 2 : <br/>
 https://user-images.githubusercontent.com/87317691/137854942-7cf12df8-3ab1-4a86-b946-1d105be4e57a.mp4
 
 <br/>
-I stopped training this model after 2000 iterations, so the outputs don't look so good.
